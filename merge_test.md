@@ -1,1 +1,2 @@
 # test merge
+*mearge test*
